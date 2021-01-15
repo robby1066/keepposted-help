@@ -2,8 +2,6 @@
 This is the public documentation and issue tracker for [Keep Posted](https://www.keepposted.io)
 
 
-<img src="images/logo.png" width="80%" />
-
 Keep Posted helps teams stay in touch with short videos that keep everyone in the loop, on their own time, without excessive meetings or long, impersonal emails. 
 
 Learn more about Keep Posted and it's features below. If you would like to report a bug or make a feature request, please [click here](https://github.com/robby1066/keepposted-roadmap/issues/new/choose).
