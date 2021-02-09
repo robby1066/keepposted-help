@@ -4,7 +4,7 @@ This is the public documentation and issue tracker for [Keep Posted](https://www
 
 Keep Posted helps teams stay in touch with short videos that keep everyone in the loop, on their own time, without excessive meetings or long, impersonal emails. 
 
-Learn more about Keep Posted and it's features below. If you would like to report a bug or make a feature request, please [click here](https://github.com/robby1066/keepposted-help/issues/new/choose).
+Learn more about Keep Posted and it's features below. If you would like to report a bug or make a feature request, please [start here](https://github.com/robby1066/keepposted-help/issues/new/choose).
 
 ## Creating and sharing a message
 Messages in Keep Posted are collections of one or more video clips, generally recorded through your computer's camera, of people talking to your organization. Multiple people can collaborate on a message.
