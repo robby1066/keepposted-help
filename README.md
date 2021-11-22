@@ -1,3 +1,10 @@
+# Keep Posted Is Shutting Down
+After working on this project for a year, I've decided to shut it down. It was fun, and workplace communication is still a place where there are lot of unsolved problems. It became clear the more I worked on Keep Posted that it wasn't the solution that's needed. 
+
+[More Details here](https://keepposted.ck.page/posts/keep-posted-is-shutting-down)
+
+-----
+
 # Keep Posted Roadmap & Documentation
 This is the public documentation and issue tracker for [Keep Posted](https://www.keepposted.io)
 
